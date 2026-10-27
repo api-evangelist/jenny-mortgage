@@ -64,5 +64,24 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Mortgage Tools by Jenny is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://jenny.mortgage/mortgage-tools/
+Mortgage Tools by Jenny provides a set of Canadian mortgage calculation tools accessible via AI assistants like ChatGPT and Claude, as well as directly through its website. Users can compare renewal offers, model extra payments, evaluate break-or-stay scenarios, and explore debt consolidation options. The tools are free, require no account, and are intended for educational purposes only, offering illustrative calculations without financial advice or lender recommendations.
+
+**Areas:** Company · Mortgage · Calculator · AI · Canada
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://jenny.mortgage/mortgage-tools/)
+- [Documentation](https://jenny.mortgage/mortgage-tools/)
+- [Getting started](https://jenny.mortgage/mortgage-tools/)
+- [API reference](https://mcp.jenny.mortgage/mcp)
+- [Blog](https://jenny.mortgage/blog/)
+- [Terms of service](https://jenny.mortgage/terms-of-service.html)
+- [Privacy policy](https://jenny.mortgage/privacy-policy.html)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/jenny-mortgage/](https://apis.io/providers/jenny-mortgage/).
